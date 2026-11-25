@@ -16,6 +16,7 @@ function App() {
       <button onClick={() => setCount((count) => count + 1)}>count is: {count}</button>
       <p className="text-gray-500 text-lg text-center"> learn react step by step</p>
       <button className="bg-blueviolet text-white py-2 px-4 rounded-md m-1 cursor-pointer">Click me</button>
+       <button className="bg-blueviolet text-white py-2 px-4 rounded-md m-1 cursor-pointer">Click me</button>
     </>
   )
 }
